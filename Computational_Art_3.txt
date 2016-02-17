@@ -1,0 +1,7 @@
+red_function:
+['cos_pi', ['cos_pi', ['cos_pi', ['avg', ['avg', ['avg', ['avg', ['t'], ['t']], ['cos_pi', ['x']]], ['avg', ['t'], ['y']]], ['cos_pi', ['prod', ['y'], ['t']]]]]]]
+green_function:
+['sin_pi', ['prod', ['sin_pi', ['prod', ['abs', ['prod', ['cos_pi', ['y']], ['x']]], ['abs', ['sin_pi', ['x']]]]], ['power', ['cos_pi', ['avg', ['power', ['sin_pi', ['t']]], ['avg', ['prod', ['y'], ['y']], ['y']]]]]]]
+blue_function:
+['prod', ['prod', ['avg', ['sin_pi', ['power', ['power', ['t']]]], ['abs', ['sin_pi', ['sin_pi', ['cos_pi', ['t']]]]]], ['abs', ['cos_pi', ['prod', ['cos_pi', ['x']], ['sin_pi', ['cos_pi', ['t']]]]]]], ['sin_pi', ['cos_pi', ['prod', ['cos_pi', ['sin_pi', ['x']]], ['cos_pi', ['cos_pi', ['cos_pi', ['t']]]]]]]]
+
